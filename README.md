@@ -1,0 +1,2 @@
+# gastly
+Gastly's Property.
