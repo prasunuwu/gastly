@@ -3,7 +3,7 @@
 **By using Gastly you agree and accept the following terms of service.**
 
 1. [discord.com/terms](https://discord.com/terms)
-2. Read and agreed to our [privacy policy](https://github.com/prasunuwu/Gastly-Privacy-Policy/blob/main/Gastlyuwu.md)
+2. Read and agreed to our [privacy policy](https://github.com/prasunuwu/gastly/blob/main/Privacy-Policy.md)
 
 # Prohibited Activities
 
